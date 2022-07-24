@@ -32,7 +32,7 @@ I've also left in some debug controls in case you wanna have fun.
 
 ### Players and Cheaters ###
 
-** Read ahead only if you want to understand how the NPCs work and what tricks cheaters use **
+**Read ahead only if you want to understand how the NPCs work and what tricks cheaters use**
 - Each player that comes to the casino is a little different. Different looks. Different personalities. Different Budgets.
 - Some players like to take more risks than others. It could cost them all their money. Or if they're "lucky" cause you a lot of trouble.
 - Cheaters have a bunch of tricks they can use to change the odds in their favor. They may simply use a loaded die. Smart ones might even try to rig the banker's die.
