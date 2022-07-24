@@ -12,3 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+
+Plugins/Developer/RiderLink
+Build
+.idea
+*.psd
+*.blend
