@@ -1,5 +1,8 @@
 ![](https://github.com/SelenianRanger/TheLoadedDie/blob/master/Content/Splash.png?raw=true)
+
 ## Description ##
+
+[***Download and play the game on itch.io***](https://selenianranger.itch.io/the-loaded-die "Download and play the game on itch.io")
 
 This game was originally made to fit two game jam themes "A Travesty" and "Roll of The Dice". However it wasn't done in time but I still took time to polish and make it playable.
 
