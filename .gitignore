@@ -14,9 +14,10 @@ Saved
 *.xcworkspace
 
 
+Plugins/*/Intermediate
 Plugins/Developer/RiderLink
 Build
 .idea
 *.psd
 *.blend
-*_BuiltData
+*_BuiltData.uasset
