@@ -13,11 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-
 Plugins/*/Intermediate
 Plugins/Developer/RiderLink
 Build
 .idea
 *.psd
 *.blend
-*_BuiltData.uasset
