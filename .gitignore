@@ -17,5 +17,14 @@ Plugins/*/Intermediate
 Plugins/Developer/RiderLink
 Build
 .idea
+*_BuiltData.uasset
+
 *.psd
+*.tif
+*.jpg
+*.png
+
 *.blend
+*.fbx
+
+*.wav

@@ -47,4 +47,6 @@ I've also left in some debug controls in case you wanna have fun.
 
 ## Credits ##
 
-Apart from some sounds used from https://freesound.org/, everything else was made and put together by myself.
+Liscene free sounds used from https://freesound.org/ 
+Textures from https://textures.com/
+Everything else made and put together by myself.
